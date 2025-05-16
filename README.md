@@ -1,73 +1,80 @@
-Hi there, I'm [Facker  Editz] 👋
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+playground;Security+enthusiast+and+code+craftsman;Ethical+hacker+%7C+Developer+%7C+Problem+solver;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
-💫 About Me
-
-🔭 I'm currently working on [Your Current Project]
-🌱 I'm currently learning [Technology/Language]
-👯 I'm looking to collaborate on Open Source Projects
-💬 Ask me about [Your Expertise]
-📫 How to reach me: your.email@example.com
-⚡ Fun fact: [Interesting Fact About You]
-
-🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourhandle" height="30" width="40" /></a>
-<a href="https://dev.to/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yourprofile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="480" />
 </p>
-🚀 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- Add more icons as needed -->
-</p>
-📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-📈 Activity Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Activity Graph" />
-</div>
-📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/yourusername/repo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/repo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical" />
-  </a>
-</div>
-🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-🎧 Now Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=default" alt="Spotify" />
-</div>
-💻 Coding Time
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="Wakatime Stats" />
-</div>
+💻 About Me
+bash#!/bin/bash
 
+# About me
+echo "Cybersecurity enthusiast and software developer passionate about ethical hacking"
+echo "Breaking and building systems to understand how they work"
+echo "Dedicated to creating secure and efficient solutions to complex problems"
+echo "Continually exploring the ever-evolving digital landscape"
+🚀 Tech Stack
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+</div>
+🔐 Security Projects
+javascriptconst projects = [
+  {
+    name: "VulnScanner",
+    description: "Automated vulnerability scanner for web applications",
+    tech: ["Python", "Docker", "MongoDB"]
+  },
+  {
+    name: "SecureAuth",
+    description: "Zero-trust authentication framework with multi-factor capabilities",
+    tech: ["Go", "JWT", "Redis"]
+  },
+  {
+    name: "PacketAnalyzer",
+    description: "Real-time network traffic analysis tool",
+    tech: ["Rust", "eBPF", "ElasticSearch"]
+  }
+];
+🌐 Connect With Me
+<div align="center">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+⚡ Terminal Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+🔥 Hack The Planet
+                                                    
+ _|    _|                      _|              _|_|_|_|_|  _|                      
+ _|    _|    _|_|_|    _|_|_|  _|  _|      _|      _|      _|_|_|      _|_|        
+ _|_|_|_|  _|    _|  _|        _|_|          _|    _|      _|    _|  _|_|_|_|      
+ _|    _|  _|    _|  _|        _|  _|    _|      _|        _|    _|  _|            
+ _|    _|    _|_|_|    _|_|_|  _|    _|  _|      _|        _|    _|    _|_|_|  _|
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="Visitor Count" />
+</div>
+<!-- Replace YourUsername with your actual GitHub username throughout this document -->
