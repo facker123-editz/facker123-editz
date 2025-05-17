@@ -6,7 +6,26 @@
   <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="480" />
 </p>
 💻 About Me
-bash#!/bin/bash
+I'm a passionate software engineer who thrives at the intersection of creativity and code. With a deep love for building scalable apps, reverse-engineering systems, and automating the impossible, I wear both hats: the developer and the hacker — crafting clean architecture by day, breaking down digital walls by night (ethically, of course).
+
+🔧 As a Developer:
+
+I design and build applications with performance, UX, and maintainability in mind.
+
+From mobile to web, frontend to backend, I enjoy full-stack development and solving real-world problems with elegant code.
+
+I'm constantly learning new frameworks, APIs, and cloud platforms to stay sharp and productive.
+
+💡 As a Hacker (in the true sense):
+
+I love diving deep into systems to understand how they work — then making them work better.
+
+Passionate about cybersecurity, ethical hacking, and automation.
+
+I often explore vulnerabilities, write scripts to simplify tasks, and participate in CTFs for fun and skill-building.
+
+🔍 Mindset:
+Curious. Obsessively resourceful. Always exploring the limits of what’s possible with code.
 
 # About me
 echo "Cybersecurity enthusiast and software developer passionate about ethical hacking"
